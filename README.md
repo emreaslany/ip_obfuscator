@@ -11,4 +11,4 @@ Amaç, IP adreslerini daha az okunur hale getirerek basit gizleme (obfuscation) 
 ## Kullanım
 ```bash
 ip_obfuscator.exe 192.168.1.1
-Obfuscated : 3232235777```
+Obfuscated : 3232235777
